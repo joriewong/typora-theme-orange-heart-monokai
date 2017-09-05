@@ -41,6 +41,7 @@ p {
     line-height: 1.8em;
 }
 a {
+    text-decoration: none;
     color: #f66;
     border-bottom: 2px solid transparent;
 }
