@@ -1,0 +1,50 @@
+body {
+    font-family: "Montserrat", "微软雅黑";
+    font-weight: 400;
+    font-size: 16px;
+    word-spacing: 1px;
+    color: #666;
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    color: #444;
+}
+h1 {
+    font-size: 32px;
+    margin: 0 0 45px;
+    letter-spacing: 1px;
+}
+h2 {
+    position: relative;
+    font-size: 24px;
+}
+h3 {
+    font-size: 1.17em;
+    margin: 30px 0 15px;
+}
+h2:before {
+    content: '';
+    border-left: 5px solid #f66;
+    position: absolute;
+    left: -15px;
+    height: 75%;
+    top: 12%;
+}
+blockquote {
+    margin: 2em 0;
+    padding-left: 30px;
+    border-left: 5px solid #e6e6e6;
+    background: transparent;
+}
+p {
+    line-height: 1.8em;
+}
+a {
+    color: #f66;
+    border-bottom: 2px solid transparent;
+}
+a:hover {
+    color: #f33;
+    border-bottom-color: #f33;
+}
