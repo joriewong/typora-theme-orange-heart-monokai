@@ -18,6 +18,7 @@ h1 {
 h2 {
     position: relative;
     font-size: 24px;
+    padding-left: 15px;
 }
 h3 {
     font-size: 1.17em;
@@ -27,7 +28,7 @@ h2:before {
     content: '';
     border-left: 5px solid #f66;
     position: absolute;
-    left: -15px;
+    left: 0px;
     height: 75%;
     top: 12%;
 }
