@@ -1,2 +1,5 @@
 # markdown.css
-> 简约
+
+> concise
+
+![markdown_show](https://github.com/joriewong/markdown/blob/master/img/markdown.jpg)
