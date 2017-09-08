@@ -2,4 +2,4 @@
 
 > concise
 
-![markdown_show](https://github.com/joriewong/markdown/blob/master/img/markdown.jpg)
+![markdown_show](https://github.com/joriewong/markdown/blob/master/img/markdown.png)
