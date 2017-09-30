@@ -26,6 +26,9 @@ h3 {
     border-bottom: 1px solid #ddd;
     padding-bottom: 5px;
 }
+h4 {
+    margin: 15px 0;
+}
 h2:before {
     content: '';
     width: 5px;
