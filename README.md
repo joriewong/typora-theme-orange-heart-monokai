@@ -8,4 +8,4 @@
 
 ## License
 
-Markdown is [MIT Licensed](https://github.com/joriewong/markdown/blob/master/LICENSE).
+markdown.css is [MIT Licensed](https://github.com/joriewong/markdown/blob/master/LICENSE).
