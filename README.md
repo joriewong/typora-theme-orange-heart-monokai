@@ -5,3 +5,7 @@
 > concise
 
 ![markdown_show](https://github.com/joriewong/markdown/blob/master/img/markdown.png)
+
+## License
+
+Markdown is [MIT Licensed](https://github.com/joriewong/markdown/blob/master/LICENSE).
