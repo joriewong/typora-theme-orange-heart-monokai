@@ -1,4 +1,5 @@
-# markdown.css [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/markdownStyleSheet)
+# markdown.css [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/markdownStyleSheet)![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=joriewong.markdown)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=joriewong.markdown)
 
 > concise
 
