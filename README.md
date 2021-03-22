@@ -20,7 +20,7 @@ This style comes from the idea of using [markdown-nice ](https://github.com/mdni
 
 ## 3 Screenshot
 
-![typora_theme_orange_heart](https://mds-1303228113.cos.ap-chongqing.myqcloud.com/imgs/image-20210322112232652.png)
+![typora_theme_orange_heart](Xnip2021-03-22_11-38-56.jpg)
 
 ## 4 Other
 
