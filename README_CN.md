@@ -1,29 +1,29 @@
-# typora-theme-orange-heart
+# typora-theme-orange-heart-monokai
 
-[English | [中文](README_CN.md)]
+[[English](README.md) | 中文]
 
-## 1 Introduce
+## 1 介绍
 
-> The style is based on markdown-nice's [orange heart](https://preview.mdnice.com/themes/id/1) theme, the author is [zhning12](https://github.com/zhning12).
+> 样式基于 `markdown-nice` 的[橙心](https://preview.mdnice.com/themes/id/1)主题修改，作者为 [zhning12](https://github.com/zhning12)；
 >
-> and the code box style is based on typora's [typora-theme-pie](https://github.com/kevinzhao2233/typora-theme-pie) theme, the author is [kevinzhao2233](https://github.com/kevinzhao2233).
+> 代码框样式基于 `typora` 的 [typora-theme-pie](https://github.com/kevinzhao2233/typora-theme-pie) 主题修改，作者为 [kevinzhao2233](https://github.com/kevinzhao2233)。
 
-This style comes from the idea of using [markdown-nice ](https://github.com/mdnice/markdown-nice)to process Markdown styles and want to use them on Typora. At present, the general style is the same and can be used normally.
+这份样式源自使用 [markdown-nice](https://github.com/mdnice/markdown-nice) 处理 `Markdown` 样式时，想在 `Typora` 上使用的想法。目前大体样式已相同，可正常使用。
 
-## 2 Install
+## 2 安装
 
-① `Typora` Software：File->Perferences...(->Appearance)->Themes->Open Theme Folder.
+① `Typora` 软件：文件->偏好设置(->外观)->主题->打开主题文件夹；
 
-② Copy and paste the `orangeheartmonokai.css` file into the Typora theme folder.
+② 将 `orangeheartmonokai.css` 文件复制粘贴至 `Typora` 主题文件夹；
 
-③ restart the softwar.
+③ 重启软件。
 
-## 3 Screenshot
+## 3 截图
 
-![typora_theme_orange_heart_monokai](Xnip2021-03-22_11-38-56.jpg)
+![typora_theme_orange_heart](Xnip2021-03-22_11-38-56.jpg)
 
-## 4 Other
+## 4 其他
 
-- [Typora Theme](http://theme.typora.io/)
+- [Typora 主题](http://theme.typora.io/)
 
 MIT @ jared
