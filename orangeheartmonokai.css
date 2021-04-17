@@ -213,6 +213,7 @@
 .cm-s-inner.CodeMirror {
   background: #272822;
   color: #f8f8f2;
+  font-size: 1.3rem;
 }
 .cm-s-inner div.CodeMirror-selected {
   background: #49483e;
