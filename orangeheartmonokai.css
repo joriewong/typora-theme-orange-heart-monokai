@@ -242,7 +242,7 @@
   color: #d0d0d0;
 }
 .cm-s-inner .CodeMirror-cursor {
-  border-left: 1px solid #f8f8f0;
+  border-left: 1px solid #f8f8f0 !important;
 }
 
 .cm-s-inner span.cm-comment {
