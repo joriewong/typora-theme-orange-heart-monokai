@@ -1,3 +1,4 @@
+/* @media (prefers-color-scheme: no-preference) { */
 /* 全局属性 */
 #write {
   max-width: 860px;
@@ -11,7 +12,7 @@
   word-wrap: break-word;
   text-align: left;
   font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light,
-    'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    "PingFang SC", Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 /* 段落 */
@@ -56,7 +57,7 @@
 }
 #write h2:after {
   display: inline-block;
-  content: '';
+  content: "";
   vertical-align: bottom;
   border-bottom: 36px solid #efebe9;
   border-right: 20px solid transparent;
@@ -190,10 +191,10 @@
   color: rgb(239, 112, 96);
 }
 #write .md-footnote > .md-text:before {
-  content: '[';
+  content: "[";
 }
 #write .md-footnote > .md-text:after {
-  content: ']';
+  content: "]";
 }
 
 /* 脚注 */
@@ -201,11 +202,43 @@
   padding-right: 1.8ch;
 }
 #write .md-def-name:before {
-  content: '[';
+  content: "[";
   color: #000;
 }
 #write .md-def-name:after {
   color: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+  #write h2 {
+    border-bottom: 2px solid #014fe0;
+  }
+  #write h2 span {
+    background: #014fe0;
+  }
+  /* 引用 */
+  #write blockquote {
+    border-left: 3px solid #014fe0;
+  }
+  /* 链接 */
+  #write a {
+    color: #014fe0;
+    border-bottom: 1px solid #014fe0;
+  }
+  /* 行内代码 */
+  #write p code,
+  #write li code {
+    color: #014fe0;
+  }
+  /* 行内代码 */
+  #write span code,
+  #write li code {
+    color: #014fe0;
+  }
+  /* 脚注上标 */
+  #write .md-footnote {
+    color: #014fe0;
+  }
 }
 
 /* 代码块主题 */
